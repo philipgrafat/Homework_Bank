@@ -1,2 +1,4 @@
 # Homework_Bank
-Hausaufgabe Bankbeispiel
+Hausaufgabe HTLinn 2AHWII Gruppe Bankbeispiel(extended)
+
+Pseudo-Bankverwaltungssystem
